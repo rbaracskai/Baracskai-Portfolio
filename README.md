@@ -1,5 +1,5 @@
 # Baracskai-Portfolio
-This is where I will be keeping the visualizations I create for my class, Telling Stories with Data, at Carnegie Mellon
+This is where I will be keeping the visualizations I create for my class, Telling Stories with Data, at Carnegie Mellon University
 
 # About Me
 My name is Riley Baracskai (buh-RASS-key) and I use he/him pronouns. I am a second year Master of Arts Management student at Carnegie Mellon University's Heinz College of information systems, public policy, and management. I attended SUNY Fredonia from 2015 to 2019, during which time I worked as a ticket office manager, director, and stage manager, graduating summa cum laude in 2019 with a B.A. in Theatre Arts and Arts Administration. I have worked with a wide range of arts institutions, serving as Adult Education Programming Intern at Interlochen Center for the Arts, Development Intern at Pittsburgh’s Quantum Theatre, and currently, Development Intern at Pittsburgh’s Mattress Factory Museum, a nationally and internationally recognized leader in site-specific, contemporary art. 
