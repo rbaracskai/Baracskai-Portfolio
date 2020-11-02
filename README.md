@@ -13,4 +13,4 @@ I am hoping to hone my skills on color pairings and theory, learn data visualiza
 
 # Portfolio
 ## Embedding Test from Class
-<div class="flourish-embed flourish-chart" data-src="visualisation/4213130"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[covid data](<div class="flourish-embed flourish-chart" data-src="visualisation/4213130"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
