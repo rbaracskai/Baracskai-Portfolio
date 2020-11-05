@@ -12,4 +12,6 @@ Upon graduation, I seek to work with arts institutions that leverage the educati
 I am hoping to hone my skills on color pairings and theory, learn data visualization software, and importantly, learn when to say "no" in my designs and presentations. I am somewhat of a chronic content-overloader when it comes to creating graphics and presentations, and I hope to use the theory and skills I learn from this course to better streamline my work.
 
 # Portfolio
-Check out my first Data Visualization project (here)[DataViz2.md] 
+## Data Visualization Project: Government Debt
+
+<iframe src="https://data.oecd.org/chart/69sf" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69sf" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
