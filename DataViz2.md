@@ -4,5 +4,6 @@
 
 ## ReDesign #1
 **Debt-to-GDP ratio = the gross debt of the general government as a percentage of GDP.** 
+
 This ratio is a key indicator of governmental financial sustainability; a low ratio indicates high capacity to pay back debts without incurring more debt.
 <div class="flourish-embed flourish-chart" data-src="visualisation/4252865"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
