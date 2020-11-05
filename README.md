@@ -12,4 +12,4 @@ Upon graduation, I seek to work with arts institutions that leverage the educati
 I am hoping to hone my skills on color pairings and theory, learn data visualization software, and importantly, learn when to say "no" in my designs and presentations. I am somewhat of a chronic content-overloader when it comes to creating graphics and presentations, and I hope to use the theory and skills I learn from this course to better streamline my work.
 
 # Portfolio
-Check out my first Data Visualization project (here)[DataViz2] 
+Check out my first Data Visualization project (here)[DataViz2.md] 
