@@ -4,4 +4,3 @@
 
 ## General Government Debt- ReDesign #1
 <div class="flourish-embed flourish-chart" data-src="visualisation/4252865"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
