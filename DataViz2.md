@@ -10,7 +10,7 @@ This ratio is a key indicator of governmental financial sustainability; a low ra
 
 ## ReDesign #1
 ### Linear General Government Debt, Last 25 Years
-Alphabetically organinzed by country code, the chart below compares year-to-year trends for each country's debt-to-GDP ratio
+Alphabetically organinzed by country code, the chart below compares year-to-year trends for each country's debt-to-GDP ratio.
 <div class="flourish-embed flourish-chart" data-src="visualisation/4252865"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## ReDesign #2
