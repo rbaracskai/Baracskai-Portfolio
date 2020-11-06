@@ -15,7 +15,7 @@ Alphabetically organized by country code, the chart below compares year-to-year 
 
 ## Redesign #2
 ### General Government Debt Trends in Consistent Reporters
-The chart below is comprised of a subset of data from the above sample in which only the countries that reported data for each year between 2000 and 2018 are analyzed.
+The chart below is comprised of a subset of data from the above sample in which only the countries that reported data for each year between 2000 and 2018 are analyzed. In this example, we see the distribution of each of the debt-to-GDP ratios for the analyized years.
 <div class="flourish-embed flourish-scatter" data-src="visualisation/4253468"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
