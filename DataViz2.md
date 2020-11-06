@@ -13,5 +13,5 @@ Alphabetically organinzed by country code, the chart below compares year-to-year
 
 ## ReDesign #2
 ### Debt Distribution in Consistent Reporters
-The chart below is comprised of a subset of data from the above sample in which only the countries that reported data for all years within 2000 and 2018 are analyzed.
+The chart below is comprised of a subset of data from the above sample in which only the countries that reported data for each year between 2000 and 2018 are analyzed.
 <div class="flourish-embed flourish-scatter" data-src="visualisation/4253468"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
