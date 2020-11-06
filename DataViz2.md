@@ -8,6 +8,7 @@ Both of the following charts describe and contextualize various international **
 This ratio is a key indicator of governmental financial sustainability; a low ratio indicates high capacity to pay back debts without incurring more debt.
 ## ReDesign #1
 ### Linear General Government Debt, Last 25 Years
+Alphabetically organinzed by country code, the chart below compares year-to-year trends for each country's debt-to-GDP ratio
 <div class="flourish-embed flourish-chart" data-src="visualisation/4252865"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## ReDesign #2
