@@ -13,5 +13,6 @@ I am hoping to hone my skills on color pairings and theory, learn data visualiza
 
 # Portfolio
 Data Visualization Project #1- [Visualizing International Debt-to-GDP Ratios](DataViz2.md)
-Data Visualization Project #2 [Racial Inequities in Nonprofit Fundraising]
+
+Data Visualization Project #2- [Racial Inequities in Nonprofit Fundraising]
 
