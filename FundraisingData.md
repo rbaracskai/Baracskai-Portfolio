@@ -11,6 +11,8 @@ I began my process by searching for public data for a fact that I already knew t
 
 
 I eventually found a data set of the last 4 years of Echoing Green’s grant applicants, which has been cited in many articles and reports, and then I took to critiquing the visualization itself. The biggest problem for me is that it is represented in a table. As I discussed above, this prevents the viewer from having as strong of an emotional reaction when they actually see the difference in the figures. This is a problem that needs immediate attention from those in the industry. Unfortunately, these people often have limited time. While a table is good for showing multiple dimensions of data, some of the data included in the table is not necessary to create the desired reaction. 
+
+
 Based on these observations, I moved on to the wireframing process. I tossed around the idea of a stacked bar, but that only felt appropriate for the breakdown of the proportion of applicants. While the total number of applicants matters, the total number of funds raised does not; only the fact that white fundraisers make far more than anyone else. This led me to a series of bar charts. At first I was worried that two bar charts was too basic, so I tried incorporating a stacked-bar approach to the x axis (Race/Ethnicity) so that the width of the bars corresponded to the total percentage of applicants. My user feedback revealed that not only was it conusing that the x axis was supposed to represent 100% of another variable, but once that obstacle was overcome, the width of the Black fundraisers bar made the towering white fundraisers bar seem less stark.
 
 
