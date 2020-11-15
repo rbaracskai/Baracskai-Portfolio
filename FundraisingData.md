@@ -1,2 +1,2 @@
-# Data Visualization Project #2- Inequties in Nonprofit Fundraising ???
+# Data Visualization Project #2- Racial Inequties in Nonprofit Fundraising ???
 ## Original Visualization
