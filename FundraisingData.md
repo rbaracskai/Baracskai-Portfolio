@@ -15,6 +15,8 @@ Based on these observations, I moved on to the wireframing process. I tossed aro
 
 
 Remembering what the textbook said about the classic methods being classic because they work, I dove into redesigning the data as a pair of bar charts: one showing the dollars raised by fundraisers of different races/ethnicities, and one showing what proportion each racial/ethnic group made of the total applicant pool. This is when I ran into trouble with the data itself. I realized that the visualization I had critiqued was on **United States** fundraisers, but geographic data was not included in the Race and Ethnicity sheet I was using for analysis. After trying half a dozen ways of cross referencing this sheet with another sheet containing the geographic data, I moved on. 
+
+
 I made a few significant changes to the data analyzed beyond the format itself. I removed the “median funds” variable from my analysis as I didn’t feel that it added much and took far more time to understand than was worth for the desired effect. In order to match the racial/ethnic groups listed on the original visualization, I excluded entries that reported “other” and “prefer not to say” when reporting their race/ethnicity. I also chose to display the full dollar amounts that each group raised, rather than a percentage, as I felt that the percentages obscured the significance of the disparity.
 
 
