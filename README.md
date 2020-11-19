@@ -16,5 +16,5 @@ Data Visualization Project #1- [Visualizing International Debt-to-GDP Ratios](Da
 
 Data Visualization Project #2- [Nonprofit Fundraising Dollars Awarded by Race/Ethnicity](FundraisingData.md)
 
-Final Project: Part 1- [Racial Inequities in Nonprofit Fundraising](FinalProject.md)
+Final Project: Racial Inequities in Nonprofit Fundraising- [Part 1](FinalProject.md)
 
