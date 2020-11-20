@@ -1,4 +1,4 @@
-# Final Project: Racial Inequities in Fundraising Awards
+# Final Project: Racial Inequities in Nonprofit Fundraising
 
 
 ## Outline
