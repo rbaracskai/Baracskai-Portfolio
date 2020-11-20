@@ -82,7 +82,7 @@ Due to the inaccessibility of large data sets on these issues (the few that exis
 
 For example, the following visualization is located on page 11 of [The Bridgespan Group's Racial Equity and Philanthropy Report](https://www.bridgespan.org/bridgespan/Images/articles/racial-equity-and-philanthropy/racial-equity-and-philanthropy.pdf).
 
-![Alt text](Screenshot 2020-11-20 163716.png)
+![Alt text](example_redesign.png)
 
 The data used to create this viz is partially the Echoing Green data, but also partially a large data set of organizational 990s that I do not have the capability of collecting. As such, I plan on re-creating/re-designing the surface level information comunicated via this visualizaton to strengthen the arguments of the core visualizations from my Echoing Green data set that will anchor each outline point.
 
