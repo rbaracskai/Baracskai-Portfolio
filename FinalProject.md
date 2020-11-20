@@ -76,7 +76,7 @@
 
 
 ## The Data
-The main data set I will be using for the above sketched visualizations is the collection of data on Echoing Green's Fellowship Program applicants. This is one of the largest collections of data on social enterprise applicants (download data set [here](Echoing-Green-SSE2-2020-Dataset.xlsx). The visualizations from this data set will serve as the core/achoring visualizations for outline points 2-4.
+The main data set I will be using for the above sketched visualizations is the collection of data on Echoing Green's Fellowship Program applicants. This is one of the largest collections of data on social enterprise applicants (download data set [here](Echoing-Green-SSE2-2020-Dataset.xlsx)). The visualizations from this data set will serve as the core/achoring visualizations for outline points 2-4.
 
 Due to the inaccessibility of large data sets on these issues (the few that exist other than Echoing Green are all behind paywalls), I will be using visualizations found in the many reports written by institutions who have accessed and analyzed this paywall-blocked data. As such, I will not be able to recreate these charts from the original source data, but I plan on changing the format/presentation of them to better communicate my story. 
 
