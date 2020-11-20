@@ -38,17 +38,34 @@
     * a.	VIZ (3): PROGRAM AREA: Ethnic Minority Serving Organizations
     * b.	Significant proportion of Black population under poverty line  
       * i.	Extend above viz to add in Economically Disadvantaged program area as a variable for BIGGER VIZ [^4]
+      
+ 5. Recent Increase in Awareness
+    * a. Accessible data 
+    * b. Increase in reports[^5]
+    * CCF 10 principles [^6]
+    
+ 6. Call to Action
+ * a. Foundation Leaders: [Trust Based Philanthropy Project](https://trustbasedphilanthropy.org/) [^7]
+ * b. Nonprofit Development Leaders: [Community Centric Fundraising](https://communitycentricfundraising.org/)[^8]
 
  
 
 ### References
-[^1]: National Center for Charitable Statistics. “The Nonprofit Sector in Brief 2019,” June 2020. https://nccs.urban.org/publication/nonprofit-sector-brief-2019#the-nonprofit-sector-in-brief-2019.
+[^1]: National Center for Charitable Statistics. “The Nonprofit Sector in Brief 2019,” June 2020.
 
 [^2]: Giving USA. “Giving USA 2020: Charitable Giving Showed Solid Growth, Climbing to $449.64 Billion in 2019, One of the Highest Years for Giving on Record | Giving USA,” June 16, 2020. https://givingusa.org/giving-usa-2020-charitable-giving-showed-solid-growth-climbing-to-449-64-billion-in-2019-one-of-the-highest-years-for-giving-on-record/.
 
 [^3]: Echoing Green. “State of Social Entrepreneurship 2020,” March 30, 2020. https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/.
 
 [^4]: KFF. “Poverty Rate by Race/Ethnicity,” October 23, 2020. https://www.kff.org/other/state-indicator/poverty-rate-by-raceethnicity/.
+
+[^5]:
+
+[^6]:
+
+[^7]:
+
+[^8]:
 
 ## Initial Sketches
 
