@@ -76,15 +76,17 @@
 
 
 ## The Data
-The main data set I will be using for the above sketched visualizations is the collection of data on Echoing Green's Fellowship Program applicants. This is one of the largest collections of data on social enterprise applicants (download data set [here](Echoing-Green-SSE2-2020-Dataset.xlsx)). The visualizations from this data set will serve as the core/achoring visualizations for outline points 2-4.
+ 1. Echoing Green Data Set
+    * The main data set I will be using for the above sketched visualizations is the collection of data on Echoing Green's Fellowship Program applicants. This is one of the largest collections of data on social enterprise applicants (download data set [here](Echoing-Green-SSE2-2020-Dataset.xlsx)). The visualizations from this data set will serve as the core/achoring visualizations for outline points 2-4.
 
-Due to the inaccessibility of large data sets on these issues (the few that exist other than Echoing Green are all behind paywalls), I will also be using visualizations found in the many reports written by institutions who have accessed and analyzed this paywall-blocked data. As such, I will not be able to recreate these charts from the original source data, but I plan on changing the format/presentation of them to better communicate my story. 
-
-For example, the following visualization is located on page 11 of [The Bridgespan Group's Racial Equity and Philanthropy Report](https://www.bridgespan.org/bridgespan/Images/articles/racial-equity-and-philanthropy/racial-equity-and-philanthropy.pdf).
-
-![Alt text](example_redesign.png)
-
-The data used to create this viz is partially the Echoing Green data, but also partially a large data set of organizational 990s that I do not have the capability of collecting. As such, I plan on re-creating/re-designing the surface level information comunicated via this visualizaton to strengthen the arguments of the core visualizations from my Echoing Green data set that will anchor each outline point.
+ 2. Various Reports (see Reference Footnote 5 in outline section)
+    * Due to the inaccessibility of large data sets on these issues (the few that exist other than Echoing Green are all behind paywalls), I will also be using visualizations found in the many reports written by institutions who have accessed and analyzed this paywall-blocked data. As such, I will not be able to recreate these charts from the original source data, but I plan on changing the format/presentation of them to better communicate my story. 
+    
+    For example, the following visualization is located on page 11 of [The Bridgespan Group's Racial Equity and Philanthropy Report](https://www.bridgespan.org/bridgespan/Images/articles/racial-equity-and-philanthropy/racial-equity-and-philanthropy.pdf).
+    
+    ![Alt text](example_redesign.png)
+    
+    The data used to create this viz is partially the Echoing Green data, but also partially a large data set of organizational 990s that I do not have the capability of collecting. As such, I plan on re-creating/re-designing the surface level information comunicated via this visualizaton to strengthen the arguments of the core visualizations from my Echoing Green data set that will anchor each outline point.
 
 ## Method and Medium
 I plan on using Tableau to create the dynamic and interactive visualizations from the Echoing Green data set, Canva to redsign the static visualizations found in the reports discussed above, and Shorthand to host and present the final project. 
