@@ -24,9 +24,9 @@
     * c.	Total giving to nonprofits in 2019 was $449.64 billion [^2]
  
  2.	This is not a new issue and publicly accessible data is hard to find, but Echoing Green applicant data provides the largest, most recent, publicly available dataset [^3]
- * a.	DATA VIZ 1: 2 Line charts, showing year over year
- * b.	Total Raised by Race/Ethnicity
- * c.	Total % of Applicants by Race/Ethnicity
+    * a.	DATA VIZ 1: 2 Line charts, showing year over year
+    * b.	Total Raised by Race/Ethnicity
+    * c.	Total % of Applicants by Race/Ethnicity
 
  
 
