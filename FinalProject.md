@@ -31,7 +31,7 @@
     
     
  3. Black Fundraisers receive less than their white counterparts, despite being a significantly larger proportion of the applicant pool
-    * a.	DATA VIZ (2): Data Viz Project #2: Nonprofit Fundraising Dollars Awarded by Race/Ethnicity
+    * a.	DATA VIZ (2): Data Viz Project #2: [Nonprofit Fundraising Dollars Awarded by Race/Ethnicity](FundraisingData.md)
     
     
  4. Not just individuals: Ethnic Minority Serving organizations (no Black delineation in data) receive less too
