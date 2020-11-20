@@ -18,7 +18,7 @@
 ### Story Outline
 **Summary/Thesis:** A significant way in which systemic racism manifests in the nonprofit sector is in the exclusion and “othering” of Black fundraisers and Black led organizations (BLOs) in the fundraising process. This barrier to resources makes it much harder for BLOs to do the necessary work to protect communities that are facing the symptoms of systemic racism themselves, and thus it is the responsibility of the significantly white Development and Foundation sector to understand, address, and resolve this issue.
 
-**1. Overview of nonprofit sector and the role of contributed income**
+ **1. Overview of nonprofit sector and the role of contributed income**
     * a.	Size of sector (# of registered nonprofits in US) in 2016 
     * b.	Total nonprofit Contributed income for 2016 (396.52 billion) [^1] 
     * c.	Total giving to nonprofits in 2019 was $449.64 billion [^2]
