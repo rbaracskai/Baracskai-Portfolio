@@ -69,6 +69,12 @@
 
 ## Initial Sketches
 ![Alt text](FinalProjectStoryArcCropped.jpg)
+
+![Alt text](VizSketch1.jpg)
+
+![Alt text](VizSketches3and4.jpg)
+
+
 ## The Data
 
 ## Method and Medium
