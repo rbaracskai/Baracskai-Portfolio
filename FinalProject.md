@@ -87,3 +87,4 @@ For example, the following visualization is located on page 11 of [The Bridgespa
 The data used to create this viz is partially the Echoing Green data, but also partially a large data set of organizational 990s that I do not have the capability of collecting. As such, I plan on re-creating/re-designing the surface level information comunicated via this visualizaton to strengthen the arguments of the core visualizations from my Echoing Green data set that will anchor each outline point.
 
 ## Method and Medium
+I plan on using Tableau to create the dynamic and interactive visualizations from the Echoing Green data set, Canva to redsign the static visualizations found in the reports discussed above, and Shorthand to host and present the final project. 
