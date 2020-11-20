@@ -21,7 +21,7 @@
  1. Overview of nonprofit sector and the role of contributed income
     * a.	Size of sector (# of registered nonprofits in US) in 2016 
     * b.	Total nonprofit Contributed income for 2016 (396.52 billion)<sup>1</sup>
-    * c.	Total giving to nonprofits in 2019 was $449.64 billion<sup>2</sup>
+    * c.	Total giving to nonprofits in 2019 ($449.64 billion)<sup>2</sup>
     
     
  2. Lack of funding: not a new issue, but publicly accessible data is hard to find. Echoing Green applicant data provides the largest, most recent, publicly available dataset<sup>3</sup>
