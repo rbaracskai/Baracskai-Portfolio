@@ -3,7 +3,7 @@
 
 ## Outline
 ### User/Audience Considerations
-Intended User/Audience: Nonprofit Development Leaders; Foundation Leaders
+**Intended User/Audience:** Nonprofit Development Leaders; Foundation Leaders
 
 
 **User Story**
