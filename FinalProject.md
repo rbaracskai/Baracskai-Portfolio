@@ -25,7 +25,7 @@
     
     
  2. This is not a new issue and publicly accessible data is hard to find, but Echoing Green applicant data provides the largest, most recent, publicly available dataset<sup>3</sup>
-    * a.	DATA VIZ 1: 2 Line charts, showing year over year
+    * a.	DATA VIZ (1): 2 Line charts, showing year over year
     * b.	Total Raised by Race/Ethnicity
     * c.	Total % of Applicants by Race/Ethnicity
     
@@ -35,9 +35,9 @@
     
     
  4. Not just individuals: Ethnic Minority Serving organizations (no Black delineation in data) receive less too
-    * a.	VIZ (3): PROGRAM AREA: Ethnic Minority Serving Organizations
+    * a.	DATA VIZ (3): PROGRAM AREA: Ethnic Minority Serving Organizations
     * b.	Significant proportion of Black population under poverty line<sup>4</sup>  
-      * i.	Extend above viz to add in Economically Disadvantaged program area as a variable for BIGGER VIZ
+      * i.	Extend above viz to add in Economically Disadvantaged program area: DATA VIZ (4)
       
  5. Recent Increase in Awareness
     * a. Accessible data 
