@@ -76,9 +76,9 @@
 
 
 ## The Data
-Main data set for the sketched visualizations will be the core data set for arguments. A feww download is located towards the bottom of the page on [Echoing Green's State of Social Entrepreneurship 2020 Report](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/)
+The main data set I will be using for the above sketched visualizations is [Echoing Green's State of Social Entrepreneurship 2020 Report](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/). These visualizations will serve as the core/achoring visualizations for outline points 2-4.
 
-Due to the inaccessibility of large data sets on these issues (the few that exist other than Echoing Green are all behind paywalls), I will be using visualizations found in the many reports written by institutions who have accessed and analyzed this paywall-blocked data. As such, I will not be able to recreate these charts from the original source data, but I plan on changing the format/presentation of them. 
+Due to the inaccessibility of large data sets on these issues (the few that exist other than Echoing Green are all behind paywalls), I will be using visualizations found in the many reports written by institutions who have accessed and analyzed this paywall-blocked data. As such, I will not be able to recreate these charts from the original source data, but I plan on changing the format/presentation of them to better communicate my story. 
 
 For example, the following visualization is located on page 11 of [The Bridgespan Group's Racial Equity and Philanthropy Report](https://www.bridgespan.org/bridgespan/Images/articles/racial-equity-and-philanthropy/racial-equity-and-philanthropy.pdf).
 
