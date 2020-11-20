@@ -68,7 +68,7 @@
 <sup>8</sup>Community Centric Fundraising. “Community Centric Fundraising- Home,” 2020. https://communitycentricfundraising.org/.
 
 ## Initial Sketches
-[](https://rbaracskai.github.io/Baracskai-Portfolio/FinalProjectStoryArc.jpg)
+![](Final Project Story Arc Cropped.jpg)
 ## The Data
 
 ## Method and Medium
