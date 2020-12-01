@@ -90,5 +90,57 @@
 I plan on using Tableau to create the dynamic and interactive visualizations from the Echoing Green data set, Canva to redsign the static visualizations found in the reports discussed above, and Shorthand to host and present the final project. 
 
 
-## Part 2
+# Part 2
 To view the Final Project Part II User Research Wireframe/Outline, click [here](https://carnegiemellon.shorthandstories.com/racial-inequities-in-nonprofit-fundraising/index.html)
+
+## User Research
+
+### Target Audience and Identification Method
+**Target Audience:** Nonprofit Development Leaders; Foundation Leaders
+
+** Representative Interviewees:** I asked the director of advancement at the Mattress Factory (my current internship) to take a look at it, as she is currently a nonprofit development leader and a former foundation leader. I also asked my manager at Mattress Factory, who is a current nonprofit development leader. I also reached out to past classmates who work in foundations. Lastly, I asked for feedback from fellow Master of Arts Management students, many of which also have development internships and experience.
+
+### Interview Script and Selection of Relevant Answers
+Interview Script: I used a Google Forms survey that I sent to my interviewees so that they could answer on their own time, and without the pressure of me hovering and waiting for an answer. The following is a breakdown of the questions and the structure of the form. You can view the Google Form [here](https://docs.google.com/forms/d/e/1FAIpQLScsrPtgBv_y_HLlOOtkNREZOXHzYeJYDzobQcscNb9bzmgCtA/viewform?usp=sf_link) or read the general script below.
+
+
+ 1. Feedback Guidelines
+ Thank you for taking the time to contribute to this project! Your feedback will be very useful as I fine-tune moving forward.
+ To begin, please visit https://carnegiemellon.shorthandstories.com/racial-inequities-in-nonprofit-fundraising/index.html and scroll through the web page narrative. Please note that this is a basic "wireframe" outline and therefore is not complete. Additional narrative text will provide additional points on the severity of the issue and related developments.
+ In the questions below, I am seeking simple feedback on the effectiveness of the visualizations, as well as the flow of the story overall. The following questions are built with the goal of collecting your impressions on these elements of the story so that I can better craft them into a fully-fledged, published, data-focused narrative. 
+ For ease of reference, I have attached thumbnail photos of each visualization for which I am seeking feedback. When providing feedback, please refer to the actual visualizations that are located within the published story outline rather than the thumbnails attached to the survey questions.
+ Thank you again and I look forward to your feedback!
+
+ 2. The Visualizations
+ In this section, I am seeking feedback on the visualizations themselves. In the next section I will ask you about the story overall.
+ For ease of reference, I have attached thumbnail photos of each visualization for which I am seeking feedback. When providing feedback, please refer to the actual visualizations that are located within the published story outline rather than the thumbnails attached to the survey questions.
+ In this section, I based much of my questions off of the method we used for the critique by redesign assignment. I asked the following questions of each of my 4 visualizations:
+ 
+  Question 1, 5, 9, 13- Visualization X: Intuitiveness. To what degree do you feel like you understand the concept behind the visualization?
+   (Understand Little) 1 ----- 2 ----- 3 ----- 4 ----- 5 (Understand completely)
+   
+  Question 2, 6, 10, 14- Visualization X: Relevance. To what degree does this visualization feel relevant to the surrounding text and topics discussed?
+   (Not relevant) 1 ----- 2 ----- 3 ----- 4 ----- 5 (Very relevant)
+   
+  Question 3, 7, 11, 15- Visualization X: Completeness. Does the visualization have everything it needs to be useful/communicate valuable information?
+   (Incomplete) 1 ----- 2 ----- 3 ----- 4 ----- 5 (Complete)
+  
+  Question 4, 8, 12, 16- Do you have any recommendations that might improve the above visualization?
+
+
+ 3. The Story and Flow
+ In this final section, I ask only a few questions on the overarching story and cohesiveness of the narrative.
+ 
+  Question 17- What are your thoughts on the flow of the narrative: how we got from point A to point B, etc? Would you recommend any changes in the order?
+  
+  Question 18- By the time you reach the Call to Action at the end, how motivated did you feel to take advantage of the resources provided?
+   (Not motivated) 1 ----- 2 ----- 3 ----- 4 ----- 5 (Complete)
+   
+  Question 19- Does the Call to Action feel like appropriate responses to the content of the story?
+   Yes / No
+   If no, why? Do you have any suggestions?
+   
+   Question 20- Do you have any thoughts or suggestions about design elements such as colors, fonts, etc (Note that these elements are not finalized as this is still a rough draft/outline, but I do welcome any thoughts if you have them)?
+   
+   Question 21- Any final thoughts or feedback that you'd like to share?
+
