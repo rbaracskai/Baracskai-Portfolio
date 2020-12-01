@@ -1,8 +1,8 @@
 # Final Project: Racial Inequities in Philanthropy
 
-# Part 1
-## Outline
-### User/Audience Considerations
+## Part 1
+### Outline
+#### User/Audience Considerations
 **Intended User/Audience:** Nonprofit Development Leaders; Foundation Leaders
 
 
@@ -15,7 +15,7 @@
 * Guide the reader to a call to action that fits their specific circumstance
 
 
-### Story Outline
+#### Story Outline
 **Summary/Thesis:** A significant way in which systemic racism manifests in the nonprofit sector is in the exclusion and “othering” of Black fundraisers and Black led organizations (BLOs) in the fundraising process. This barrier to resources makes it much harder for BLOs to do the necessary work to protect communities that are facing the symptoms of systemic racism themselves, and thus it is the responsibility of the significantly white Development and Foundation sector to understand, address, and resolve this issue.
 
  1. Overview of nonprofit sector and the role of contributed income
@@ -50,7 +50,7 @@
 
  
 
-### References
+#### References
 <sup>1</sup>National Center for Charitable Statistics. “The Nonprofit Sector in Brief 2019,” June 2020.
 
 <sup>2</sup>Giving USA. “Giving USA 2020: Charitable Giving Showed Solid Growth, Climbing to $449.64 Billion in 2019, One of the Highest Years for Giving on Record | Giving USA,” June 16, 2020. https://givingusa.org/giving-usa-2020-charitable-giving-showed-solid-growth-climbing-to-449-64-billion-in-2019-one-of-the-highest-years-for-giving-on-record/.
@@ -67,7 +67,7 @@
 
 <sup>8</sup>Community Centric Fundraising. “Community Centric Fundraising- Home,” 2020. https://communitycentricfundraising.org/.
 
-## Initial Sketches
+### Initial Sketches
 ![Alt text](FinalProjectStoryArcCropped.jpg)
 
 ![Alt text](VizSketch1.jpg)
@@ -75,7 +75,7 @@
 ![Alt text](VizSketches3and4.jpg)
 
 
-## The Data
+### The Data
  1. Echoing Green Data Set
     * The main data set I will be using for the above sketched visualizations is the collection of data on Echoing Green's Fellowship Program applicants. This is one of the largest collections of data on social enterprise applicants (download data set [here](Echoing-Green-SSE2-2020-Dataset.xlsx)). The visualizations from this data set will serve as the core/achoring visualizations for outline points 2-4.
 
@@ -86,9 +86,9 @@
     
     The data used to create this viz is partially the Echoing Green data, but also partially a large data set of organizational 990s that I do not have the capability of collecting. As such, I plan on re-creating/re-designing the surface level information comunicated via this visualizaton to strengthen the arguments of the core visualizations from my Echoing Green data set that will anchor each outline point.
 
-## Method and Medium
+### Method and Medium
 I plan on using Tableau to create the dynamic and interactive visualizations from the Echoing Green data set, Canva to redsign the static visualizations found in the reports discussed above, and Shorthand to host and present the final project. 
 
 
-# Part 2
+## Part 2
 To view the Final Project Part II User Research Wireframe/Outline, click [here](https://carnegiemellon.shorthandstories.com/racial-inequities-in-nonprofit-fundraising/index.html)
