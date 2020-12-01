@@ -1,6 +1,6 @@
 # Final Project: Racial Inequities in Philanthropy
 
-
+# Part 1
 ## Outline
 ### User/Audience Considerations
 **Intended User/Audience:** Nonprofit Development Leaders; Foundation Leaders
@@ -88,3 +88,7 @@
 
 ## Method and Medium
 I plan on using Tableau to create the dynamic and interactive visualizations from the Echoing Green data set, Canva to redsign the static visualizations found in the reports discussed above, and Shorthand to host and present the final project. 
+
+
+# Part 2
+To view the Final Project Part II User Research Wireframe/Outline, click [here](https://carnegiemellon.shorthandstories.com/racial-inequities-in-nonprofit-fundraising/index.html)
