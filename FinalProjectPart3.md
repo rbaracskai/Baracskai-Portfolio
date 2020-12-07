@@ -24,7 +24,7 @@ I am happy to say that after the user feedback from Part II, I was successfully 
     - *2017 funding: of all funding in US, only 1.8% went to African American populations*
     - *Black people make up over 13% of the population*
  
-*I added this new piece of data to show what the general giving sector looked like for Black people. This viz was definitely the favorite in all of the user research, but it was originally the 3rd visualization. Users found it very impactful, and suggested that it could be a good inital viz to show the general state of the sector before diving in to the detais, so I moved it to the beginning of the body instead of towards the end.*
+*I added this new piece of data to show what the general giving sector looked like for Black people. This viz was definitely the favorite in all of the user research, but it was originally the 3rd visualization for Part II. Users found it very impactful, and suggested that it could be a good inital viz to show the general state of the sector before diving in to the detais, so I moved it to the beginning of the body instead of towards the end.*
 
 
  * **~~2:~~ *4:* Lack of funding: not a new issue, but publicly accessible data is hard to find. Echoing Green applicant data provides the largest, most recent, publicly available dataset**
