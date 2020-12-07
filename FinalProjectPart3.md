@@ -8,7 +8,7 @@ You can view the process by which this final deliverable came to fruition by rev
 
 
 ## Part 3
-I am happy to say that after the user feedback from Part II, I was successfully able to incorporate most of the major points of feedback into my final version for Part III. In this section, I will discuss the project in the context of my original outline, **noting additions in the outline with italics, deletions with strikethrough text, and providing comments on each section below it.**
+I am happy to say that after the user feedback from Part II, I was successfully able to incorporate most of the major points of feedback into my final version for Part III. In this section, I will discuss the project in the context of my original outline, **noting additions in the outline with *italics,* deletions with ~~strikethrough text,~~ with comments on each section below it.**
 
 ### Part I Outline with *additions,* ~~deletions~~ and section comments below
 
