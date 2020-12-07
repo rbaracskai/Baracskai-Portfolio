@@ -24,7 +24,7 @@ After User Research, I decided to remove most of the above section from my outli
     - *2017 funding: of all funding in US, only 1.8% went to African American populations*
     - *Black people make up over 13% of the population*
  
-I added this new piece of data to show what the general giving sector looked like for Black people. This viz was definitely the favorite in all of the user research, but it was originally the 3rd visualization for Part II. Users found it very impactful, and suggested that it could be a good inital viz to show the general state of the sector before diving in to the detais, so I moved it to the beginning of the body instead of towards the end.
+I added this new piece of data to show what the general giving sector looked like for Black people. This viz was definitely the favorite in all of the user research, but it was originally the 3rd visualization for Part II. Users found it very impactful, and suggested that it could be a good initial viz to show the general state of the sector before diving into the details, so I moved it to the beginning of the body instead of towards the end.
 
 
  * **~~2:~~ *4:* Lack of funding: not a new issue, but publicly accessible data is hard to find. Echoing Green applicant data provides the largest, most recent, publicly available dataset**
@@ -44,6 +44,7 @@ I had to completely rethink how I wanted to communicate this point, as the large
 INSERT THE ORIGINAL PROBLEM CHART
 
 This viz was the source of most of my critique in Part II. The bar graph nature of the viz rightfully made viewers think that it was a measure of value rather than a comparison of proportions, and were left wanting the actual numbers (which I didn’t have, as this viz is a recreation of a statistic from a report). The title also didn’t aid in understanding that the sample being described was of a subset of all organizations. This ran counter to my point, as I was trying to show how much harder it is to secure funding for Black leaders and Leaders of Color in organizations that seek to help the lives of Black men. I considered turning it into a stacked bar chart, but in-class feedback made me realize I would run into the same problems with this format too.
+
 Another problem I found on my own with this viz is that I accidentally inaccurately represented the statistic. In the accurate “total unrestricted assets” statistic, the sample compared to "organizations with white leaders” is “organizations with leaders who are people of color” not “organizations with leaders who are black”. I made adjustments to account for all of these issues in the following redesign:
 
 INSERT THE NEW VERSION
@@ -55,7 +56,7 @@ In this new version, I completely rethought the format, as well as fixed the con
    - Increase in reports
    - ~~CCF 10 principles~~
 
-I used this time to talk a little more about how none of these issues are new, it's just that we're hearing more about them now. I aldo removed the discussion of CCF's 10 principles because a) there was no way to summarize them well and b) one of the target audience types will be directed there via the call to action anyway.
+I used this time to talk a little more about how none of these issues are new, it's just that we're hearing more about them now. I also removed the discussion of CCF's 10 principles because a) there was no way to summarize them well and b) one of the target audience types will be directed there via the call to action anyway.
 
  * **6: Call to Action
    - Foundation Leaders: ~~Trust Based Philanthropy Project~~ *Bridgespan Group and AFBE's “Guiding a Giving Response to Anti-Black Injustice.*
