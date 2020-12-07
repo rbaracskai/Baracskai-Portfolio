@@ -34,10 +34,10 @@ I am happy to say that after the user feedback from Part II, I was successfully 
  
 *Instead of being the first two data points, as originally had them in my Part II wireframe, I decided that these specific numbers would do better as the last two data points at the end of the story, right before the call to action. Their specificity and dramatic gaps lend well to the “peak” (or in the case of my Part I Story Arc, the deepest “pit”) of the story before covering recent developments and the call to action.*
 
- * ~~4.~~ 3. Not just individuals: ~~ Ethnic Minority Serving organizations (no Black delineation in data) receive less too~~ *Leaders of color experience unique barriers to leading their black-serving organizations*
-  * PROGRAM AREA: ~~Ethnic Minority~~ *Black* Serving Organizations
-  * ~~Significant proportion of Black population under poverty line~~
-  * ~~Extend above viz to add in Economically Disadvantaged program area~~
+ * **~~4.~~ 3. Not just individuals: ~~Ethnic Minority Serving organizations (no Black delineation in data) receive less too~~ *Leaders of color experience unique barriers to leading their black-serving organizations***
+    - PROGRAM AREA: ~~Ethnic Minority~~ *Black* Serving Organizations
+    - ~~Significant proportion of Black population under poverty line~~
+    - ~~Extend above viz to add in Economically Disadvantaged program area~~
  
 *I had to completely rethink how I wanted to communicate this point, as the large scale data set was not helping me make it in the way that I wanted to. That’s when I turned to my initial problem child, the bar chart viz below. *
 
