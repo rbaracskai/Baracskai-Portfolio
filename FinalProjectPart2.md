@@ -1,17 +1,19 @@
-# Part 2
-To view the Final Project Part II User Research Wireframe/Outline, click [here](https://carnegiemellon.shorthandstories.com/racial-inequities-in-nonprofit-fundraising/index.html)
+# Final Project: Racial Inequities in Philanthropy
 
-## User Research
+## Part 2
+A sample of users/target audience members was engaged to provide feedback on a draft version of the infla deliverable. This draft is no longer available, but you can view the completed, final story [here](https://carnegiemellon.shorthandstories.com/racial-inequities-in-nonprofit-fundraising/index.html)
 
-### Target Audience and Identification Method
+### User Research
+
+#### Target Audience and Identification Method
 **Target Audience:** Nonprofit Development Leaders; Foundation Leaders
 
 **Representative Interviewees:** I asked the director of advancement at the Mattress Factory (my current internship) to take a look at it, as she is currently a nonprofit development leader and a former foundation leader. I also asked my manager at Mattress Factory, who is a current nonprofit development leader. I also reached out to past classmates who work in foundations. Lastly, I asked for feedback from fellow Master of Arts Management students, many of which also have development internships and experience.
 
-### Interview Script
+#### Interview Script
 For this portion of the assignment, I built out a Google Forms survey that I sent to my interviewees so that they could answer on their own time, and without the pressure of me hovering and waiting for an answer. Because of the number of questions in the survey (22 in total), I have linked the Google Form for ease of review. You can view the Google Form [here](https://docs.google.com/forms/d/e/1FAIpQLScsrPtgBv_y_HLlOOtkNREZOXHzYeJYDzobQcscNb9bzmgCtA/viewform?usp=sf_link)
 
-### Findings From Interviews and Relevant User Quotes
+#### Findings From Interviews and Relevant User Quotes
 * Visualization #3 (Total giving in 2017) was the fan favorite; everyone felt that it was very effective in communicating the point
   * User Quote: *“I think this one might be my favorite! Contrasting proportions in this way is very effective. If there is a way to make it slightly larger in Shorthand though, it might be easier to read and understand at first glance.”*
   
@@ -27,7 +29,7 @@ For this portion of the assignment, I built out a Google Forms survey that I sen
 
 * Everyone felt that the call to action was relevant, and enjoyed how I broke it down based on the reader type.
 
-### Planned Changes
+#### Planned Changes
 * I am first going to try rearranging my story flow: I will start with what is currently Viz 3 to establish the fact that the general funding landscape is scarce for Black people, and then I will move into the specific statistics.
  
 * In what is currently Viz 1, I will grey out all of the bars aside from the White and Black race/ethnicity groups. I will also better distinguish the column titles
