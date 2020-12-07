@@ -41,13 +41,13 @@ Instead of being the first two data points, as originally had them in my Part II
  
 I had to completely rethink how I wanted to communicate this point, as the large scale data set was not helping me make it in the way that I wanted to. That’s when I turned to my initial problem child, the bar chart viz below.
 
-![Alt text](OGPROBCHART)
+![Alt text](OldViz.md)
 
 This viz was the source of most of my critique in Part II. The bar graph nature of the viz rightfully made viewers think that it was a measure of value rather than a comparison of proportions, and were left wanting the actual numbers (which I didn’t have, as this viz is a recreation of a statistic from a report). The title also didn’t aid in understanding that the sample being described was of a subset of all organizations. This ran counter to my point, as I was trying to show how much harder it is to secure funding for Black leaders and Leaders of Color in organizations that seek to help the lives of Black men. I considered turning it into a stacked bar chart, but in-class feedback made me realize I would run into the same problems with this format too.
 
 Another problem I found on my own with this viz is that I accidentally inaccurately represented the statistic. In the accurate “total unrestricted assets” statistic, the sample compared to "organizations with white leaders” is “organizations with leaders who are people of color” not “organizations with leaders who are black”. I made adjustments to account for all of these issues in the following redesign:
 
-![Alt text](NEWCHART)
+![Alt text](NewViz.md)
 
 In this new version, I completely rethought the format, as well as fixed the content errors. The new version was instantly more clear. Using icons instead of bars eliminated the convention and expectation of measurement, and it made clear that I was simply comparing one thing to another. The refined title and additional subtitle helped me clarify the subset-nature of the visualization. The caps remained shocking, and the concept became clearer. I was very happy with this redesign, and thankful for the feedback I received on it in all of its forms.
 
