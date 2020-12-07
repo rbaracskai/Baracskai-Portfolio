@@ -12,7 +12,7 @@ I am happy to say that after the user feedback from Part II, I was successfully 
 
 ### Part I Outline with *additions,* ~~deletions~~ and *section comments below*
 
- * 1) Overview of nonprofit sector ~~and the role of contributed income~~
+ * 1: Overview of nonprofit sector ~~and the role of contributed income~~
    - ~~Size of sector (# of registered nonprofits in US) in 2016~~
    - ~~Total nonprofit Contributed income for 2016 (396.52 billion)~~
    - ~~Total giving to nonprofits in 2019 ($449.64 billion)~~
