@@ -20,5 +20,5 @@ Final Project: [Part 1](FinalProject.md) (Story Outline and Initial Wireframes)
 
 Final Project: [Part 2](FinalProjectPart2.md) (High Fidelity Wireframes and User Experience Research)
 
-Final Project: Part 3 (Final Deliverable and Reflection)
+Final Project: [Part 3](FinalProjectPart3.md) (Final Deliverable and Reflection)
 
