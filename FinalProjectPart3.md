@@ -58,8 +58,67 @@ In this new version, I completely rethought the format, as well as fixed the con
 
 I used this time to talk a little more about how none of these issues are new, it's just that we're hearing more about them now. I also removed the discussion of CCF's 10 principles because a) there was no way to summarize them well and b) one of the target audience types will be directed there via the call to action anyway.
 
- * **6: Call to Action((
+ * **6: Call to Action**
    - Foundation Leaders: ~~Trust Based Philanthropy Project~~ *Bridgespan Group and AFBE's “Guiding a Giving Response to Anti-Black Injustice.*
    - Nonprofit Development Leaders: Community Centric Fundraising *+ Cause Effective’s, "Money, Power, and Race: The Lived Experiences of Fundraisers of Color."
 
 After reviewing the Trust Based Philanthropy project in more detail, I realized it didn't have as much of a focus on racial justice as it needed to for this piece. I replaced it with something far better and more specific to the story. I also added a "first step" call to action for white nonprofit professionals so that they could first understand the experiences of their Black coworkers/employees/colleagues before jumping in to Community Centric Fundraising.
+
+
+### Works Cited
+Images used were used Royalty Free Stock Photo websites https://www.pexels.com/ and https://unsplash.com/, neither of which require atribution.
+
+#### Works Cited with In-Text Story Note Numbers
+[1] Battalia Winston. “The State of Diversity in Nonprofit and Foundation Leadership.” Battalia Winston, 2017.
+
+[2] “U.S. Census Bureau QuickFacts: United States.” Accessed December 2, 2020. https://www.census.gov/quickfacts/fact/table/US/PST045219; Koob, Anna. “What Does Candid’s Grants Data Say about Funding for Racial Equity in the United States?” Candid Blog, July 24, 2020. https://blog.candid.org/post/what-does-candids-grants-data-say-about-funding-for-racial-equity-in-the-united-states.
+
+[3] Rendon, Jim. “Nonprofits Led by People of Color Win Less Grant Money With More Strings (Study).” The Chronicle of Philanthropy, May 7, 2020, sec. News. https://www.philanthropy.com/article/nonprofits-led-by-people-of-color-win-less-grant-money-with-more-strings-study/.
+
+[4] Kenton, Will. “Define Unrestricted Net Assets.” Investopedia. Accessed December 2, 2020. https://www.investopedia.com/terms/u/unrestricted-net-assets.asp.
+
+[5] INCITE! The Revolution Will Not Be Funded- Beyond the Non-Profit Industrial Complex. Duke University Press, 2007.
+
+[6] Echoing Green. “State of Social Entrepreneurship 2020,” March 30, 2020. https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/.
+
+[7] “The Case for Funding Black-Led Social Change.” Emergent Pathways, LLC, December 2019. http://www.blacksocialchange.org/wp-content/uploads/2020/05/BSCFN_BLSCO_Report.pdf; Dorsey, Cheryl, Jeff Bradach, and Peter Kim. “Racial Equity and Philanthropy.” The Bridgespan Group, May 2020. https://www.bridgespan.org/bridgespan/Images/articles/racial-equity-and-philanthropy/racial-equity-and-philanthropy.pdf.; “The State of Change: An Analysis of Women and People of Color in the Philanthropic Sector.” Council on Foundations, 2016.
+
+[8] Bornstein, David. “Opinion | A Call to Modernize American Philanthropy (Published 2018).” The New York Times, November 27, 2018, sec. Opinion. https://www.nytimes.com/2018/11/27/opinion/philanthropy-minorities-charities.html; “Decolonizing Wealth: Indigenous Wisdom to Heal Divides and Restore Balance (Paperback) | The Tiny Bookstore.” Accessed December 6, 2020.
+
+[9] Batten, Susan Taylor, Edward M Jones, Leslie MacKrell, and Jerry Petit-Frere. “Guiding a Giving Response to Anti-Black Injustice,” August 2020. https://www.abfe.org/wp-content/uploads/2020/08/BRIDGESPAN-Report-Guiding-a-Giving-Response-to-Anti-Black-Injustice.pdf.
+
+[10] Daniel, Janay, Judy Levine, David McGoy, Cynthia Reddrick, and Hera Syed. “Money, Power and Race: The Lived Experience of Fundraisers of Color.” Cause Effective, 2019.
+
+[11] Community Centric Fundraising. “Community Centric Fundraising Principles.” Accessed December 6, 2020. https://communitycentricfundraising.org/ccf-principles/.
+
+
+#### Works Cited Alphebetically by Source
+Battalia Winston. “The State of Diversity in Nonprofit and Foundation Leadership.” Battalia Winston, 2017.
+
+Batten, Susan Taylor, Edward M Jones, Leslie MacKrell, and Jerry Petit-Frere. “Guiding a Giving Response to Anti-Black Injustice,” August 2020. https://www.abfe.org/wp-content/uploads/2020/08/BRIDGESPAN-Report-Guiding-a-Giving-Response-to-Anti-Black-Injustice.pdf.
+
+Bornstein, David. “Opinion | A Call to Modernize American Philanthropy (Published 2018).” The New York Times, November 27, 2018, sec. Opinion. https://www.nytimes.com/2018/11/27/opinion/philanthropy-minorities-charities.html.
+
+Community Centric Fundraising. “Community Centric Fundraising Principles.” Accessed December 6, 2020. https://communitycentricfundraising.org/ccf-principles/.
+Daniel, Janay, Judy Levine, David McGoy, Cynthia Reddrick, and Hera Syed. “Money, Power and Race: The Lived Experience of Fundraisers of Color.” Cause Effective, 2019.
+“Decolonizing Wealth: Indigenous Wisdom to Heal Divides and Restore Balance (Paperback) | The Tiny Bookstore.” Accessed December 6, 2020. https://www.tinybooksonline.com/book/9781523097890.
+
+Dorsey, Cheryl, Jeff Bradach, and Peter Kim. “Racial Equity and Philanthropy.” The Bridgespan Group, May 2020. https://www.bridgespan.org/bridgespan/Images/articles/racial-equity-and-philanthropy/racial-equity-and-philanthropy.pdf.
+
+INCITE! The Revolution Will Not Be Funded- Beyond the Non-Profit Industrial Complex. Duke University Press, 2007.
+
+Kenton, Will. “Define Unrestricted Net Assets.” Investopedia. Accessed December 2, 2020. https://www.investopedia.com/terms/u/unrestricted-net-assets.asp.
+
+Koob, Anna. “What Does Candid’s Grants Data Say about Funding for Racial Equity in the United States?” Candid Blog, July 24, 2020. https://blog.candid.org/post/what-does-candids-grants-data-say-about-funding-for-racial-equity-in-the-united-states.
+
+Rendon, Jim. “Nonprofits Led by People of Color Win Less Grant Money With More Strings (Study).” The Chronicle of Philanthropy, May 7, 2020, sec. News. https://www.philanthropy.com/article/nonprofits-led-by-people-of-color-win-less-grant-money-with-more-strings-study/.
+
+Echoing Green. “State of Social Entrepreneurship 2020,” March 30, 2020. https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/.
+
+“The Case for Funding Black-Led Social Change.” Emergent Pathways, LLC, December 2019. http://www.blacksocialchange.org/wp-content/uploads/2020/05/BSCFN_BLSCO_Report.pdf.
+
+“The State of Change: An Analysis of Women and People of Color in the Philanthropic Sector.” Council on Foundations, 2016.
+
+“U.S. Census Bureau QuickFacts: United States.” Accessed December 2, 2020. https://www.census.gov/quickfacts/fact/table/US/PST045219.
+
+
