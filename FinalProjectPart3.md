@@ -51,14 +51,14 @@ Another problem I found on my own with this viz is that I accidentally inaccurat
 
 In this new version, I completely rethought the format, as well as fixed the content errors. The new version was instantly more clear. Using icons instead of bars eliminated the convention and expectation of measurement, and it made clear that I was simply comparing one thing to another. The refined title and additional subtitle helped me clarify the subset-nature of the visualization. The caps remained shocking, and the concept became clearer. I was very happy with this redesign, and thankful for the feedback I received on it in all of its forms.
 
- * **5: Recent Increase in Awareness
+ * **5: Recent Increase in Awareness**
    - Accessible data
    - Increase in reports
    - ~~CCF 10 principles~~
 
 I used this time to talk a little more about how none of these issues are new, it's just that we're hearing more about them now. I also removed the discussion of CCF's 10 principles because a) there was no way to summarize them well and b) one of the target audience types will be directed there via the call to action anyway.
 
- * **6: Call to Action
+ * **6: Call to Action((
    - Foundation Leaders: ~~Trust Based Philanthropy Project~~ *Bridgespan Group and AFBE's “Guiding a Giving Response to Anti-Black Injustice.*
    - Nonprofit Development Leaders: Community Centric Fundraising *+ Cause Effective’s, "Money, Power, and Race: The Lived Experiences of Fundraisers of Color."
 
