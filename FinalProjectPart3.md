@@ -27,14 +27,14 @@ I am happy to say that after the user feedback from Part II, I was successfully 
 *I added this new piece of data to show what the general giving sector looked like for Black people. This viz was definitely the favorite in all of the user research, but it was originally the 3rd visualization. Users found it very impactful, and suggested that it could be a good inital viz to show the general state of the sector before diving in to the detais, so I moved it to the beginning of the body instead of towards the end.*
 
 
- * **~~2:~~ 4: Lack of funding: not a new issue, but publicly accessible data is hard to find. Echoing Green applicant data provides the largest, most recent, publicly available dataset**
+ * **~~2:~~ *4:* Lack of funding: not a new issue, but publicly accessible data is hard to find. Echoing Green applicant data provides the largest, most recent, publicly available dataset**
     - 2 Line charts, showing year over year
     - Black Fundraisers receive less than their white counterparts, despite being a significantly larger proportion of the applicant pool
     - Data Viz Project #2: Nonprofit Fundraising Dollars Awarded by Race/Ethnicity
  
 *Instead of being the first two data points, as originally had them in my Part II wireframe, I decided that these specific numbers would do better as the last two data points at the end of the story, right before the call to action. Their specificity and dramatic gaps lend well to the “peak” (or in the case of my Part I Story Arc, the deepest “pit”) of the story before covering recent developments and the call to action.*
 
- * **~~4:~~ 3: Not just individuals: ~~Ethnic Minority Serving organizations (no Black delineation in data) receive less too~~ *Leaders of color experience unique barriers to leading their black-serving organizations***
+ * **~~4:~~ *3:* Not just individuals: ~~Ethnic Minority Serving organizations (no Black delineation in data) receive less too~~ *Leaders of color experience unique barriers to leading their black-serving organizations***
     - PROGRAM AREA: ~~Ethnic Minority~~ *Black* Serving Organizations
     - ~~Significant proportion of Black population under poverty line~~
     - ~~Extend above viz to add in Economically Disadvantaged program area~~
