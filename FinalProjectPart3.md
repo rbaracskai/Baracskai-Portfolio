@@ -66,7 +66,7 @@ After reviewing the Trust Based Philanthropy project in more detail, I realized 
 
 
 ### Works Cited
-Images used in shorthand were from royalty free stock photo websites https://www.pexels.com/ and https://unsplash.com/, neither of which require atribution. Fist was attributed in-text to designer associated with https://thenounproject.com/.
+Images used in shorthand were from royalty free stock photo websites https://www.pexels.com/ and https://unsplash.com/, neither of which require atribution. Fist icon was attributed in-text to designer associated with https://thenounproject.com/.
 
 #### Works Cited with In-Text Story Note Numbers
 [1] Battalia Winston. “The State of Diversity in Nonprofit and Foundation Leadership.” Battalia Winston, 2017.
