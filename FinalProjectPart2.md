@@ -1,7 +1,7 @@
 # Final Project: Racial Inequities in Philanthropy
 
 ## Part 2
-A sample of users/target audience members was engaged to provide feedback on a draft version of the infla deliverable. This draft is no longer available, but you can view the completed, final story [here](https://carnegiemellon.shorthandstories.com/racial-inequities-in-nonprofit-fundraising/index.html)
+A sample of users/target audience members was engaged to provide feedback on a draft version of the final deliverable. This draft is no longer available, but you can view the completed, final story [here](https://carnegiemellon.shorthandstories.com/racial-inequities-in-nonprofit-fundraising/index.html)
 
 ### User Research
 
