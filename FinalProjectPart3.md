@@ -20,9 +20,9 @@ I am happy to say that after the user feedback from Part II, I was successfully 
 *After User Research, I decided to remove most of the above section from my outline entirely. My target audience is people who already work in the foundation and nonprofit sector, and are therefore already relatively familiar with its function and size. Instead, I began with an overview of the problem as it relates to the nonprofit sector in a way that those working within it would understand.*
 
 
- * *2. Little dedicated funding for Black people*
-  * *2017 funding: of all funding in US, only 1.8% went to African American populations
-  * *Black people make up over 13% of the population
+ * ***2: Little dedicated funding for Black people***
+   -*2017 funding: of all funding in US, only 1.8% went to African American populations
+   - *Black people make up over 13% of the population
  
 *I added this new piece of data to show what the general giving sector looked like for Black people. This vz was definitely the favorite in all of the user research, but it was originally the 3rd visualization. TUsers found it very impactful, and suggested that it could be a good inital viz to show the general state of the sector before diving in to the detais, so I moved it to the beginning of the body instead of towards the end.*
 
