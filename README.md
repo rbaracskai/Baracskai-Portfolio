@@ -16,9 +16,9 @@ Data Visualization Project #1- [Visualizing International Debt-to-GDP Ratios](Da
 
 Data Visualization Project #2- [Nonprofit Fundraising Dollars Awarded by Race/Ethnicity](FundraisingData.md)
 
-Final Project: Part 1 (Story Outline and Initial Wireframes)[Racial Inequities in Philanthropy](FinalProject.md)
+Final Project: [Part 1](FinalProject.md) (Story Outline and Initial Wireframes)
 
-Final Project: Part 2 (High Fidelity Wireframes and User Experience Research)[FinalProjectPart2.md]
+Final Project: [Part 2]](FinalProjectPart2.md) (High Fidelity Wireframes and User Experience Research)
 
 Final Project: Part 3 (Final Deliverable and Reflection)
 
